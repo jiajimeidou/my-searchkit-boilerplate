@@ -1,5 +1,5 @@
 {
-  "name": "my searchkit boilerplate",
+  "name": "my-searchkit-boilerplate",
   "version": "1.0.0",
   "description": "[Searchkit](http://searchkit.co/), the easiest way to build a great search experience with Elasticsearch.",
   "scripts": {
